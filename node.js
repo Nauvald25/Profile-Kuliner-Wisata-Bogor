@@ -629,9 +629,13 @@
     
 
       const faqs = [
-        { q: 'Kapan waktu terbaik ke Bogor?', a: 'Pagi hari atau hari kerja untuk menghindari macet, terutama ke Puncak.' },
+        { q: 'Kapan Waktu Terbaik Untuk Berkunjung Ke Bogor ?', a: 'Pagi Hari Atau Hari Kerja Lebih Nyaman Untuk Menghindar Macet, Musim Kemarau Lebih Cocok Untuk Wisata Alam Seperti Hiking Dan Curug.' },
         { q: 'Oleh-oleh khas apa yang direkomendasikan?', a: 'Roti unyil, asinan, dan olahan talas (bolu/keripik).' },
-        { q: 'Apakah ramah keluarga?', a: 'Ya, banyak destinasi ramah anak: Kebun Raya, Taman Safari, dan curug ringan.' },
+        { q: 'Apakah Wisata Bogor Ramah Keluarga?', a: 'Ya, Banyak Destinasi Ramah Keluarga Seperti Taman Safari, The Jungle Waterpark,Devoyage, Dan Berbagai Taman Kota Yang Ramah Anak.' },
+        { q: 'Apa Destinasi Wisata Alam Paling Populer Di Bogor?', a: 'Ya, Banyak Destinasi Ramah Keluarga Seperti Taman Safari, The Jungle Waterpark,Devoyage, Dan Berbagai Taman Kota Yang Ramah Anak.' },
+        { q: 'Apa Tips Liburan Ke Bogor Agar Tidak Macet?', a: 'Berangkat Pagi Hari Sebelum Jam 7, Pilih Hari Kerja Dan Manfaatkan Jalur Alternatif Selain Puncak Saat Akhir Pekan .' },
+        { q: 'Apakah Bogor Untuk Wisata Singkat (One Day Trip)?', a: 'Ya, Karena Jaraknya Dekat Dari Jakarta Banyak Wisatawan Datang Pagi-Pagi Lalu Kembali Sore/Malam Setelah Wisata Alam Dan Kuliner.' },
+        { q: 'Bagaimana Cuaca Di Bogor Biasanya?', a: 'Bogor Dikenal Sebagai "Kota Hujan" Dengan Curah Hujan Tinggi, Siapkan Jas Hujan Atau Payung Terutama Di Musim Penghujan.' },
       ];
       const faqBox = $('#faqBox');
       if (faqBox) {
