@@ -366,7 +366,7 @@
     
     
       const USE_GLOBAL = true;
-      const NAMESPACE  = 'kab-bogor-demo'; // GANTI ke nama unik situsmu!
+      const NAMESPACE  = 'https://nauvald25.github.io/Profile-Kuliner-Wisata-Bogor/'; // GANTI ke nama unik situsmu!
       const capi = {
         hit:(k)=> fetch(`https://api.countapi.xyz/hit/${encodeURIComponent(NAMESPACE)}/${encodeURIComponent(k)}`),
         get:(k)=> fetch(`https://api.countapi.xyz/get/${encodeURIComponent(NAMESPACE)}/${encodeURIComponent(k)}`)
