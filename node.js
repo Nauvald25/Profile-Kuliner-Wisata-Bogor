@@ -1085,7 +1085,7 @@
       
         if (cbCurug.checked) { if (!map.hasLayer(curugLayer)) map.addLayer(curugLayer); }
         else { if (map.hasLayer(curugLayer)) map.removeLayer(curugLayer); }
-        // Lokasi saya
+
         if (cbMe.checked) { if (!map.hasLayer(meLayer) && meLayer.getLayers().length) map.addLayer(meLayer); }
         else { if (map.hasLayer(meLayer)) map.removeLayer(meLayer); }
     
